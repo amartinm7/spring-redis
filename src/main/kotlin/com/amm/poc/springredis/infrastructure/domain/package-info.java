@@ -1,0 +1,6 @@
+package com.amm.poc.springredis.infrastructure.domain;
+
+/*
+SPRING REPOSITORY IMPLEMENTATIONS AND SO ON.
+IMPLEMENT INTERFACES WHICH ARE CREATED IN THE DOMAIN LAYER
+ */

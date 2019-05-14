@@ -1,4 +1,4 @@
-package com.amm.poc.springredis
+package com.amm.poc.springredis.infrastructure
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

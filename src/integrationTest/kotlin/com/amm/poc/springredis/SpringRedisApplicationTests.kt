@@ -1,5 +1,6 @@
 package com.amm.poc.springredis
 
+import com.amm.poc.springredis.infrastructure.SpringRedisApplication
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.springframework.boot.test.context.SpringBootTest

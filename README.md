@@ -1,2 +1,2 @@
-# spring-redis
+# Spring Data Redis PoC
 spring-redis poc
